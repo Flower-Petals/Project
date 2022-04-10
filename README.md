@@ -1,1 +1,3 @@
 # Project
+#Biblioteka.rar permban pjesen e pare te projektit, qe eshte kodi ne Visual Studio Code. Kodi eshte ne gjuhen e programimit Java dhe permban nderfaqen Liber dhe klasat Enciklopedi, Fjalor, LetersiArtistike dhe Biblioteke. Nderfaqja Liber permban te gjitha metodat abstrakte te domosdoshme per te shkruajtur librat ne klasat e permendura me siper.
+#java(1).rar permban pjesen e dyte te projektit qe eshte kodi ne Netbeans. Kodi eshte po ne Java dhe sherben per krijimin e nje aplikacioni me nderfaqe GUI. Aplikacioni shfaq nje tabele grafike, ku ruajme te dhenat e projektit te pare dhe po ashtu mund te shtojme libra te tjere.
